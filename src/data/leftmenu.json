@@ -1,0 +1,19 @@
+{
+    "leftmenuList": [
+        {
+            "id": 1,
+            "name": "Dashboard",
+            "routeTo": "/dashboard"
+        },
+        {
+            "id": 2,
+            "name": "Data Analysis",
+            "routeTo": "/data-analysis"
+        },
+        {
+            "id": 3,
+            "name": "Data Acquisition",
+            "routeTo": "/data-acquisition"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+.logo-heading {
+    color: #fff;
+    text-align: center;
+}
+
+.btn-style {
+    padding: 1rem !important;
+    background-color: #353836 !important;
+    margin-bottom: 15px;
+}
+
+.container-style {
+    border: 2px solid gray !important;
+    border-radius: 10px !important; 
+    min-height: 300px;
+    .padding-top {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
